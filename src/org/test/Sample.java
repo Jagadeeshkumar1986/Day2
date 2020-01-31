@@ -6,5 +6,10 @@ public class Sample {
 	System.out.println("Emp id is 12345");
 
 	}
+	public void empName() {
+
+	System.out.println("Emp Name is XYZ");
+
+	}
 
 }
