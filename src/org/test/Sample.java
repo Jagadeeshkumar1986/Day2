@@ -9,6 +9,10 @@ public class Sample {
 	public void empName() {
 
 	System.out.println("Emp Name is XYZ");
+	public void sal() {
+
+	System.out.println("Emp sal is 10000");
+
 
 	}
 
